@@ -16,14 +16,14 @@ By using the Dialogflow API we can access the Dialogflow agent through our andro
   - About Activity
 
 
-###Execution
+### Execution
  ****
 
 - We need to create a dialogflow agent and then connect it to our chatbot application by using the key. Replace key in MainActivity.java with your agent key to interact with your own agent.
 - The Login and Registration process is by connecting to firebase.
 - The feedback is stored in firebase realtime database.
 
-### Application userinterface
+### Application user interface
  ****
 <table>
   <tr>
