@@ -31,8 +31,8 @@ By using the Dialogflow API we can access the Dialogflow agent through our andro
   </tr>
   <tr>
     <td><img src="img/welcome.png" width=270 height=480></td>
-    <td><img src="https://github.com/akashjain04/MyChatBot/blob/master/Output%20Screenshots/registration.png?raw=true" width=270 height=480></td>
-    <td><img src="https://github.com/akashjain04/MyChatBot/blob/master/Output%20Screenshots/Login.png?raw=true" width=270 height=480></td>
+    <td><img src="img/registration.png" width=270 height=480></td>
+    <td><img src="img/Login.png" width=270 height=480></td>
   </tr>
   <tr>
         <td>Chatbot layout</td>
@@ -40,8 +40,10 @@ By using the Dialogflow API we can access the Dialogflow agent through our andro
      <td> Options menu</td>
   </tr>
   <tr>
-    <td><img src="https://github.com/akashjain04/MyChatBot/blob/master/Output%20Screenshots/Chatbot.png?raw=true" width=270 height=480></td>
-    <td><img src="https://github.com/akashjain04/MyChatBot/blob/master/Output%20Screenshots/feedback.png?raw=true" width=270 height=480></td>
-    <td><img src="https://github.com/akashjain04/MyChatBot/blob/master/Output%20Screenshots/menu.png?raw=true" width=270 height=480></td>
+    <td><img src="img/Chatbot.png" width=270 height=480></td>
+    <td><img src="img/feedback.png" width=270 height=480></td>
+    <td><img src="img/menu.png" width=270 height=480></td>
   </tr>
  </table>
+
+Thank you...
