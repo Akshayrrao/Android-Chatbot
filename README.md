@@ -6,7 +6,8 @@ Dialogflow is a Google-owned developer of human – computer interaction technol
 
 By using the Dialogflow API we can access the Dialogflow agent through our android application and get the responses. This application also has speech to text support in the chatbot. Using this speech to text conversion user can have conversations with the chatbot using speech.
 
-## We have following activities in our application.
+## We have following activities in our application
+****
 
   - Registration Activity
   - Login Activity
@@ -16,12 +17,14 @@ By using the Dialogflow API we can access the Dialogflow agent through our andro
 
 
 ## Execution
+****
 
 - We need to create a dialogflow agent and then connect it to our chatbot application by using the key. Replace key in MainActivity.java with your agent key to interact with your own agent.
 - The Login and Registration process is by connecting to firebase.
 - The feedback is stored in firebase realtime database.
 
-## Output Screenshots
+## Application userinterface
+****
 
 <table>
   <tr>
