@@ -1,5 +1,4 @@
 # Android-Chatbot
-Android chatbot with Dialogflow. Dialogflow from Google (earlier known as API.ai) is a great platform for developing chatbots for multiple platforms. There are sufficient tutorials and documents available for someone new to start learning and use the platform.
 
 A chatbot is a piece of software that conducts a conversation via auditory or textual methods. Our chatbot application will be able to conduct simple conversation with the user. We are using Dialogflow to create an AI agent which can respond to the user in the application.
 
